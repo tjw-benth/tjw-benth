@@ -35,7 +35,7 @@ Advanced trait-based modeling techniques, scaling computational models for large
 * **Ecosystem functioning** - linking biodiversity to ecological processes
 
 ## ⚡ Fun fact
-My research journey takes me from Arctic field stations collecting benthic samples to laboratory mesocosms simulating future ocean conditions, and finally to computational models predicting ecosystem cascades. I love that modern marine ecology lets me combine hands-on fieldwork with cutting-edge data science—there's nothing quite like coding up a biodiversity model after a day of sampling!
+My research journey takes me from Arctic field stations collecting benthic samples to laboratory mesocosms simulating future ocean conditions, and finally to computational models predicting ecosystem cascades. I love that modern marine ecology lets me combine hands-on fieldwork with cutting-edge data science.
 
 ## 🛠️ Tech Stack
 ![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
